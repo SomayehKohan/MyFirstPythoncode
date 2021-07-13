@@ -37,6 +37,8 @@ print ("right prediction = ", d , "\n")
 print ("right winner prediction = ", d1, "\n")
 print ("wrong winner prediction = ", nd, "\n")
 print ("number of predictions = " , d+d1+nd, "\n")
+print ("number of predictions = " , d+d1+nd, "\n")
+
 
 print("your grade is", grade)
 #print(x)
